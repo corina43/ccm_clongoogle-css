@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+    margin: 0;
+}
+.container{
+    background-color: red;
+    
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#imagen{
+    background-color: green;
+    width: 50vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#tabla{
+    background-color: yellow;
+    width: 30vw;
+    height: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
