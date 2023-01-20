@@ -148,12 +148,13 @@ button:hover{
 }
 
 .footerB{
-    margin-top: 30px;
+    /* margin-top: 30px; */
     width: 50vw;
+    display: flex;
     justify-content: flex-end;
     align-items: center;
     background-color: #f2f2f2;
-    padding-left: 200px;
+    /* padding-left: 200px; */
     /* height: 10vh; */
    
 
